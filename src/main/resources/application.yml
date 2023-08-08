@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/assesment
+    username: postgres
+    password: manish
+    
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
