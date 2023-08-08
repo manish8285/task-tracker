@@ -16,3 +16,10 @@ This project contains applicatin.yml file in src/main/resources where you need t
 * OR change this file as per your configuration
 
 
+## How To Run this Project  
+1 Clone this project   
+2 Open eclipses or STS   
+3 Go To "File" Menu and select "Open projects From File System ..."  
+4 And provide parent directory of poem.xml in "Import Source" and click on finish  
+5 Configure DB as instructed in previous step
+6 Run the project
