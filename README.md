@@ -1,6 +1,6 @@
 # Task Tracker API with PostgreSQL Backend
-This is a SpringBoot project that contains the following end points
-1 POST /tasks: Create a new task.  
+This is a SpringBoot project that contains the following end points  
+1 POST /tasks: Create a new task.    
 2 GET /tasks/{id}: Retrieve a task by its ID.  
 3 GET /tasks: Retrieve a list of all tasks.  
 4 PUT /tasks/{id}: Update an existing task by its ID.  
